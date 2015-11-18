@@ -1,0 +1,17 @@
+{
+    "name": "derelict-newton",
+    "description": "Dynamic bindings to Newton Dynamics Engine",
+    "homepage": "https://github.com/machinistprogrammer/DerelictNewton",
+    "license": "zlib",
+    "version": "1.0.0",
+    "authors": [
+        "Sean Campbell"
+    ],
+
+    "targetName": "DerelictNewton",
+    "targetPath": "lib",
+
+    "dependencies": {
+        "derelict-util": ">=1.0.2"
+    }
+}
