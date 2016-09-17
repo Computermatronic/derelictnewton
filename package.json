@@ -9,7 +9,7 @@
     ],
 
     "targetName": "DerelictNewton",
-    "targetPath": "lib",
+    "targetType": "library",
 
     "dependencies": {
         "derelict-util": ">=1.0.2"
